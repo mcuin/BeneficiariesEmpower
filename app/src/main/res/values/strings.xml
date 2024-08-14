@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beneficiaries</string>
+    <string name="beneficiary_name">%1$s %2$s</string>
+    <string name="primary">Primary</string>
+    <string name="contingent">Contingent</string>
+    <string name="social_security_number">Social Security Number: %s</string>
+    <string name="date_of_birth">Date of Birth: %s</string>
+    <string name="phone_number">Phone Number: %s</string>
+    <string name="address_with_secondary">%s$1, %s$2, %s$3, %s$4, %s$5, %s$6</string>
+    <string name="address_without_secondary">%s$1, %s$2, %s$3, %s$4, %s$5</string>
+    <string name="address">Address: %s</string>
+</resources>
